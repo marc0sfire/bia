@@ -10,7 +10,7 @@ REGION="us-east-1"
 ECR_REPO="bia"
 CLUSTER="cluster-bia"
 SERVICE="service-bia"
-TASK_FAMILY="task-def-bia"
+TASK_FAMILY="tesk-def-bia"
 
 # Cores
 GREEN='\033[0;32m'
